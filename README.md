@@ -1,22 +1,22 @@
-# Cours Complet sur la Régression Linéaire Multiple
+# Cours complet sur la régression linéaire multiple
 
 Ce projet de GitHub contient un cours complet sur la Régression Linéaire Multiple, qui aborde tous les aspects essentiels de cette technique de modélisation statistique.    
 Le cours est structuré en plusieurs parties, l'ordre est important pour comprendre le cours.   
 
-### Plan du Cours
-**Présentation et Rappels Statistiques**    
+### Plan du cours
+**Présentation et rappels statistiques**    
 Introduction à la régression linéaire multiple, rappels des concepts statistiques de base et de la modélisation linéaire simple.
 
-**Régression avec Toutes les Variables**     
+**Régression avec toutes les variables**     
 Apprentissage de la construction d'un modèle de régression linéaire multiple en utilisant toutes les variables disponibles dans le jeu de données.
 
 **Prévision**     
 Application de la régression linéaire multiple pour effectuer des prévisions sur de nouvelles données.
 
-**Calcul des Points Leviers**    
+**Calcul des points leviers**    
 Étude des points leviers pour identifier les observations qui ont une influence disproportionnée sur le modèle.
 
-**Standardisation des Erreurs**    
+**Standardisation des erreurs**    
 Normalisation des résidus pour faciliter leur interprétation et la comparaison entre les modèles.
 
 **Distance de Cook**    
@@ -25,13 +25,13 @@ Utilisation de la distance de Cook pour détecter les observations qui ont un im
 **Collinéarité**   
 Identification et gestion des problèmes de collinéarité entre les variables indépendantes.
 
-**Homoscédasticité des Résidus**   
+**Homoscédasticité des résidus**   
 Vérification et remédiation de l'homoscédasticité des résidus pour s'assurer de l'adéquation du modèle.
 
-**Normalité des Résidus**    
+**Normalité des résidus**    
 Vérification de la normalité des résidus pour garantir l'efficacité des tests statistiques.
 
-**Backward Selection**   
+**Backward selection**   
 Méthode de sélection des variables les plus pertinentes pour le modèle à l'aide d'un processus de régression backward.     
 
 Chaque étape du cours sera expliquée en détail avec des commentaires pour faciliter la compréhension et l'apprentissage.
@@ -46,7 +46,7 @@ scikit-learn
 matplotlib   
 seaborn     
 
-### Structure du Projet
+### Structure du projet
 
 ├── Regression_lineaire_multiple.ipynb    
 ├── data    
@@ -59,4 +59,7 @@ Le fichier README.md est le présent document, fournissant une description déta
 
 ### Conclusion
 Ce projet de GitHub propose un cours complet sur la Régression Linéaire Multiple, couvrant toutes les étapes importantes de la modélisation statistique. En suivant ce cours, nous serons en mesure de maîtriser la régression linéaire multiple et d'appliquer cette technique pour modéliser des relations complexes entre plusieurs variables.     
-Les exemples et les commentaires inclus dans le cahier Jupyter aideront à approfondir vos connaissances et être un expert en Régression Linéaire Multiple.     
+Les exemples et les commentaires inclus dans le cahier Jupyter aideront à approfondir vos connaissances et être un expert en Régression Linéaire Multiple.      
+
+*******
+Ce projet fait partie de la formation data analyst de l'ENSAE Paris & Openclassrooms (certificat bac+4).
