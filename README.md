@@ -1,11 +1,11 @@
 # Cours complet sur la régression linéaire multiple
 
-Ce projet de GitHub contient un cours complet sur la Régression Linéaire Multiple, qui aborde tous les aspects essentiels de cette technique de modélisation statistique.    
+Ce projet de GitHub contient un cours complet sur la régression linéaire multiple, qui aborde tous les aspects essentiels de cette technique de modélisation statistique.    
 Le cours est structuré en plusieurs parties, l'ordre est important pour comprendre le cours.   
 
 ### Plan du cours
 **Présentation et rappels statistiques**    
-Introduction à la régression linéaire multiple, rappels des concepts statistiques de base et de la modélisation linéaire simple.
+Introduction à la régression linéaire multiple, rappels des concepts statistiques de base et de la modélisation linéaire multiple.
 
 **Régression avec toutes les variables**     
 Apprentissage de la construction d'un modèle de régression linéaire multiple en utilisant toutes les variables disponibles dans le jeu de données.
