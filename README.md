@@ -58,8 +58,8 @@ Le fichier cours_regression_lineaire_multiple.ipynb est un cahier Jupyter conten
 Le fichier README.md est le présent document, fournissant une description détaillée du cours.
 
 ### Conclusion
-Ce projet de GitHub propose un cours complet sur la Régression Linéaire Multiple, couvrant toutes les étapes importantes de la modélisation statistique. En suivant ce cours, nous serons en mesure de maîtriser la régression linéaire multiple et d'appliquer cette technique pour modéliser des relations complexes entre plusieurs variables.     
-Les exemples et les commentaires inclus dans le cahier Jupyter aideront à approfondir vos connaissances et être un expert en Régression Linéaire Multiple.      
+Ce projet de GitHub propose un cours complet sur la régression linéaire multiple, couvrant toutes les étapes importantes de la modélisation statistique. En suivant ce cours, nous serons en mesure de maîtriser la régression linéaire multiple et d'appliquer cette technique pour modéliser des relations complexes entre plusieurs variables.     
+Les exemples et les commentaires inclus dans le cahier Jupyter aideront à approfondir vos connaissances.      
 
 *******
 Ce projet fait partie de la formation data analyst de l'ENSAE Paris & Openclassrooms (certificat bac+4).
